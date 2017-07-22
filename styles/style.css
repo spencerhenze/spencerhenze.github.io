@@ -1,6 +1,6 @@
- *{
+  *{
     outline: 1px solid red;
-} 
+}  
 
 body {
   background-color: cornsilk;
@@ -29,10 +29,10 @@ body {
     text-align: center;
 }
 
-.center-social-icons{
+/* .center-social-icons{
     display:flex;
     align-content: center;
-}
+} */
 
 .columnize{
     flex-direction: column;
@@ -40,6 +40,10 @@ body {
 
 .bg-blue{
     background-color: #53BDFF;
+}
+
+.bg-black{
+    background-color: black;
 }
 
 .fourty-percent-height{
@@ -161,4 +165,17 @@ a i{
 
 .services{
     margin-top: 2rem;
+}
+
+.footer{
+    min-height: 10vh;
+}
+
+.footer-social-icon-wrapper{
+    color: white;
+    font-size: 2rem;
+}
+
+.spaced-out{
+    
 }
