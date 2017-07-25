@@ -9,9 +9,12 @@ body {
 .site-title{
     font-size: 8rem;
     /* margin-top: 25vh; */
+    text-shadow: 1px 1px 4px #000;
 }
 .site-subtitle{
     font-size: 3rem;
+    text-shadow: 1px 1px 4px #000;
+
 }
 
 .flex{
@@ -100,7 +103,8 @@ a i{
 }
 
 .top-background-image{
-     background-image:url(https://res.cloudinary.com/dvh7zccln/image/upload/v1500587535/Boise_Spring_Cityscape_wgfosk.jpg);
+    background-image: url(http://res.cloudinary.com/dvh7zccln/image/upload/v1501022397/SHP_0604_x1szrl.jpg);
+     /* background-image:url(https://res.cloudinary.com/dvh7zccln/image/upload/v1500587535/Boise_Spring_Cityscape_wgfosk.jpg); */
      height: 70vh;
       background-position: center;
       background-attachment: fixed;
